@@ -2,6 +2,10 @@ body {
 /*    background-color: green; */
 /*    background-image: url("../images/01-02-02_ci-logo.png"); */
     background-image: url("/assets/images/01-02-02_background-img.jpg");
+    background-image: url("/04-the-git-commit-cycle/assets/images/background-img.jpg");
+    background-image: url("/assets/images/background-img.jpg");
+    background-image: url("/assets/images/01-02-02_background-img.jpg");
+
 }
 
 /* body {
